@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pick Ship</string>
+    <string name="alarm">Home</string>
+    <string name="clock">Search</string>
+    <string name="timer">Orders</string>
+    <string name="stopwatch">UserAccount</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" android:layout_height="20dp"
+    android:layout_width="match_parent">
+
+    <item android:title="@string/alarm"
+        android:id="@+id/bottomNavigationAlarmMenuId"
+        android:icon="@drawable/ps"/>
+
+    <item
+        android:id="@+id/bottomNavigationClockMenuId"
+        android:icon="@drawable/ps"
+        android:title="@string/clock" />
+
+    <item android:title="@string/timer"
+        android:id="@+id/bottomNavigationTimerMenuId"
+        android:icon="@drawable/ps"/>
+
+    <item android:title="@string/stopwatch"
+        android:id="@+id/bottomNavigationStopWatchMenuId"
+        android:icon="@drawable/ps"/>
+
+</menu>
